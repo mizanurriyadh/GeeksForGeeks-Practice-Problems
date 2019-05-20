@@ -1,4 +1,5 @@
 /* Problem Source-  https://practice.geeksforgeeks.org/problems/searching-a-number/0   */  
+// Linear Search
 
 #include <bits/stdc++.h>
 
