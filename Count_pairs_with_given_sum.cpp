@@ -28,3 +28,6 @@ int main()
     
     cout<<"Count of pairs is: "<<pairsCount(arr, n, sum);
 }
+
+// Output = Count of pairs is 3
+// Source = https://www.geeksforgeeks.org/count-pairs-with-given-sum/
